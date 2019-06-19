@@ -1,2 +1,4 @@
 # Don't track the folder SourceData because of enormous size ~ 1GB
 SourceData/
+# Don't track ipynb checkpints
+Desnity Field/.ipynb_checkpoints/
